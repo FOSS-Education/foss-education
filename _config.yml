@@ -1,1 +1,10 @@
 remote_theme: "dracula/gh-pages"
+
+title: FOSS for Education
+
+description: The website for the FOSS For Education project.
+
+show_downloads: false
+
+show_header: false
+
