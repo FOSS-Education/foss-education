@@ -1,3 +1,7 @@
+layout: page
+title: "Home"
+permalink: /
+
 # FOSS in Education
 
 ---
